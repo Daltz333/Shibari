@@ -21,12 +21,12 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Shibari.Native.Sink.ZeroMQ.h">
+    <ClInclude Include="ShibariClient.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Shibari.Native.Sink.ZeroMQ.cpp">
+    <ClCompile Include="ShibariClient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="dllmain.cpp">
